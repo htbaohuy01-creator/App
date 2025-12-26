@@ -1,0 +1,7 @@
+{
+  "name": "Smart Patrol Tracker",
+  "description": "A high-performance patrol tracking application for security teams featuring real-time GPS logging, route visualization, and AI-driven anomaly detection.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
